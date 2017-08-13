@@ -8,7 +8,7 @@ public class GitDemoClass {
 		System.out.println("First change here.");
 		
 		System.out.println("This is the second change after downloading");
-		
+		System.out.println("test");
 		for (int i = 0; i<=10; i++) {
 			
 		}
